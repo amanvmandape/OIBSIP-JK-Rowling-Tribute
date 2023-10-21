@@ -1,0 +1,32 @@
+*
+{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.main img
+{
+    height: 80vh;
+    border: 10px solid white;
+    border-radius: 2rem;
+}
+
+.main
+{
+    background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url(img/ultra-detailed-nebula-abstract-wallpaper-4.jpg);
+    background-size: cover;
+    background-position: bottom;
+    color: white;
+}
+.tab-cont
+{
+    width: 60%;
+    margin: auto;
+    text-align: justify;
+}
+h1
+{
+    text-align: center;
+    margin-bottom: 3rem;
+}
